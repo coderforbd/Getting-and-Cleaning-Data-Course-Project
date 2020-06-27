@@ -150,7 +150,7 @@ the following notes should be taken into account:
     "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
     at 'Sat Jun 27 16:16:48 2020'.
   - The data was then processed by the script 
-    ' TODO:[analysis.R](https://github.com/coderforbd/Getting-and-Cleaning-Data-Course-Project/blob/master/analysis.R)'
+    ' TODO:[run_analysis.R](https://github.com/coderforbd/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R)'
     to create the 'tidy_data_set' table.
   - The scripts were executed in RStudio (version 1.2.5042)
   - The library 'dplyr' version 1.0.0 was used.
@@ -179,7 +179,7 @@ nickname       Arbor Day
 
 In order to produce the 'tidy_data_set' table,
 the script 
-'[analysis.R](https://github.com/coderforbd/Getting-and-Cleaning-Data-Course-Project/blob/master/analysis.R)'
+'[run_analysis.R](https://github.com/coderforbd/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R)'
 was created and used. 
 It performs the following tasks: 
  
