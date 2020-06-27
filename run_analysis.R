@@ -1,7 +1,7 @@
 ################################################################################
 # WHAT YOU NEED TO KNOW BEFORE EXECUTING THIS SCRIPT
 ################################################################################
-# IMPORTANT: This script, 'analysis.R', works under one requirement:
+# IMPORTANT: This script, 'run_analysis.R', works under one requirement:
 #                 A folder with name 'UCI HAR Dataset' ,
 #                 is present in the working directory
 #                 that contains the following data files:
@@ -20,7 +20,7 @@
 #
 #            TIP   
 #            The script 'project_data.R' was created and used,
-#            to download and extract the needed files for 'analysis.R'.
+#            to download and extract the needed files for 'run_analysis.R'.
 #            It is recommended to use it, but not necessary.
 #            It is available on Git Hub, through this link:
 #            "https://github.com/coderforbd/Getting-and-Cleaning-Data-Course-Project/blob/master/project_data.R"
@@ -32,7 +32,7 @@
 #               - and used dplyr_1.0.0
 #               - data was downloaded at date: 'Sat Jun 27 16:16:48 2020'
 
-# DESCRIPTION: The script 'analysis.R' follows strictly the instruction
+# DESCRIPTION: The script 'run_analysis.R' follows strictly the instruction
 #              given by assignment, in a simple straightforward way.
 #                 0. Loads the data in R.
 #              Then 5 main steps are executed in order.
