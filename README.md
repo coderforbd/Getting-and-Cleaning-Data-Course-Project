@@ -53,7 +53,7 @@ with the average of each variable for each activity and each subject.
  
 
 ### README.md 
-It is the file you read right now and tries to explain the purpose and
+It is the file you are reading right now which tries to explain the purpose and
 the contents of the repository.
  
 ### project_data.R 
@@ -74,7 +74,7 @@ the files.
 ### analysis.R 
  
 It is the main script of the repository. 
-As it is described in 'CodeBood.md':
+Which is described in 'CodeBood.md':
 
 > In order to produce the 'tidy_data_set' table,
 the script 
@@ -138,7 +138,7 @@ was created and used.
     
 ### tidy_data_set.txt 
  
-The tidy dataset that was produced by the script 'run_analysis.txt',
+The tidy dataset that was produced by the script 'analysis.R',
 which contains the averages of selected features from the original
 'Human Activity Recognition Using Smartphones Dataset Version 1.0'.
 The 
